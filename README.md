@@ -6,7 +6,7 @@
 
 
 ### js相关
-#### [js原型（未完）](https://github.com/chenbj2333/blog/issues/12)
+#### [javascript-原型](https://github.com/chenbj2333/blog/issues/12)
 #### [angular4 路由基础](https://github.com/chenbj2333/blog/issues/6)
 #### [前端XSS](https://github.com/chenbj2333/blog/issues/8)
 
