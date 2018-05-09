@@ -1,5 +1,7 @@
 # blog
 
+### Tips
+#### [Tips](https://github.com/chenbj2333/blog/issues/13)
 
 ### css相关
 #### [css基础](https://github.com/chenbj2333/blog/issues/11)
