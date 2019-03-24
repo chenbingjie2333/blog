@@ -10,5 +10,7 @@ css相关 | js相关 | 工作相关 | Tips | 前端安全 | angular
 
 
 
-#### 重学前端笔记（学习内容来自于重学前端、前端面试之道、珠峰）
+#### 重学前端笔记
+###### 学习内容来自于重学前端、前端面试之道、珠峰
 1. [HTML语义](https://github.com/chenbj2333/blog/issues/14)
+2. [javascript类型](https://github.com/chenbj2333/blog/issues/15)
